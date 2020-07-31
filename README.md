@@ -16,7 +16,7 @@ FAST and SLOW - the EMA periods you want to use
 
 UNITS - the number of units to buy or sell per trade
 
-TIME_IN_FORCE - instructions for the active period of an order before executed or expired; default='FOK' (Fill or Killed).<br/>
+TIME_IN_FORCE - instructions for the active period of an order before executed or expired; default='FOK' (Filled or Killed).<br/>
                 For Time in Force all options: https://developer.oanda.com/rest-live-v20/order-df/
 
 ## Contributing
