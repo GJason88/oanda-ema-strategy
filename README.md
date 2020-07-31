@@ -4,7 +4,7 @@ A simple EMA Crossover Strategy trading algorithm made with Oanda's Rest v20 API
 Begins trading once first crossover occurs after program has been started. When the fast period EMA crosses above the long period EMA, any short positions are closed and a long order is executed; vice versa when crossing below.
 
 ## Installation
-Simply clone or download the zip for the project to save to your device.
+Simply clone or download the zip for the source code to save to your device.
 
 ## Usage
 Put in your API Key and Account ID into configs.py and change any settings regarding the strategy as you see fit. All parameters must be in quotes (e.g. UNITS='10000').
